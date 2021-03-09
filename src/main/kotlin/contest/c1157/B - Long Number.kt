@@ -1,4 +1,4 @@
-package kt.contest._1157
+package contest.c1157
 
 /**
  * https://codeforces.com/contest/_1157/problem/B
@@ -76,4 +76,3 @@ fun calculateMax(n: String, a: MutableList<Int>, f: List<Int>): String {
     }
     return a.joinToString("")
 }
-

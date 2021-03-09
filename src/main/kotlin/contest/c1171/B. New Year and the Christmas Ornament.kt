@@ -1,4 +1,4 @@
-package kt.contest._1171
+package contest.c1171
 
 /**
  * https://codeforces.com/contest/1171/problem/B
@@ -83,4 +83,3 @@ fun calc(yellow: Int, blue: Int, red: Int): Int {
     }
     return s
 }
-

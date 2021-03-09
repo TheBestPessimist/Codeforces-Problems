@@ -1,4 +1,4 @@
-//package kt.contest._1171
+//package contest.c1171
 //
 //import kt.rdLn
 //import kt.toListOfString

@@ -1,4 +1,4 @@
-package kt.contest._1171
+package contest.c1171
 
 import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test

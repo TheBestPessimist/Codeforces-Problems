@@ -1,7 +1,7 @@
-package kt.contest._1157
+package contest.c1157
 
+import org.junit.jupiter.api.Assertions.assertEquals
 import org.junit.jupiter.api.Test
-import kotlin.test.assertEquals
 
 @Suppress("ClassName", "UnnecessaryVariable")
 internal class B_Long_Number_Test {

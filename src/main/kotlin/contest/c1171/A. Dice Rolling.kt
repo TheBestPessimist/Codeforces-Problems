@@ -1,4 +1,4 @@
-package kt.contest._1171
+package contest.c1171
 
 /**
  * https://codeforces.com/contest/1171/problem/A
@@ -64,4 +64,3 @@ fun main() {
 //6   -6
 //0   so those are the number of times
 //
-
